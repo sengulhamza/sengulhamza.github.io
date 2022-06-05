@@ -1,0 +1,28 @@
+{
+  "title": "Hamza Şengül",
+  "subtitle": "Lead engineer at tradeling — tech guy with an entrepreneurial spirit and knack for getting things done",
+  "owner": {
+    "name": "Hamza Şengül",
+    "email": "sengulhamza@icloud.com"
+  },
+  "social": {
+    "github": "sengulahamza",
+    "twitter": "sengulhamza"
+  },
+  "newsletter": {
+    "showTwitterBanner": true,
+    "currentCount": "2,000",
+    "revueUsername": "roadmapsh"
+  },
+  "seo": {
+    "title": "Hamza Şengül",
+    "description": "Blog of a Software Engineer",
+    "author": "Hamza Şengül",
+    "keywords": [
+      "blog",
+      "developer blog",
+      "engineering blog"
+    ]
+  },
+  "cname": "meplis.dev"
+}
