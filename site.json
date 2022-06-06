@@ -1,12 +1,12 @@
 {
   "title": "Hamza Şengül",
-  "subtitle": "Lead engineer at tradeling — tech guy with an entrepreneurial spirit and knack for getting things done",
+  "subtitle": "I continue to develop my own experience and skills in the field of embedded software in order to catch up with today's technology and contribute.",
   "owner": {
     "name": "Hamza Şengül",
     "email": "sengulhamza@icloud.com"
   },
   "social": {
-    "github": "sengulahamza",
+    "github": "sengulhamza",
     "twitter": "sengulhamza"
   },
   "newsletter": {
@@ -24,5 +24,5 @@
       "engineering blog"
     ]
   },
-  "cname": "meplis.dev"
+  "cname": "blog.meplis.dev"
 }
