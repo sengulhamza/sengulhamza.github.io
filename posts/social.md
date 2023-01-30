@@ -1,8 +1,5 @@
 ---
-title: Social Accounts
-date: 2022-07-19
-permalink: /blog/2022/07/19/social-accounts/
+title: Boşluk
+date: 2023-01-30
+permalink: /blog/2023/01/30/bosluk/
 ---
-
-Twitter:@sengulhamza
-Linkedin:in/sengulhamza
