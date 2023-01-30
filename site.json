@@ -1,6 +1,6 @@
 {
   "title": "Hamza Şengül",
-  "subtitle": "I continue to develop my own experience and skills in the field of embedded software in order to catch up with today's technology and contribute.",
+  "subtitle": "Kişisel paylaşımlarım. Kemirgenleri aklımdan çıkarıp attığım mağara.",
   "owner": {
     "name": "Hamza Şengül",
     "email": "sengulhamza@icloud.com"
@@ -16,12 +16,14 @@
   },
   "seo": {
     "title": "Hamza Şengül",
-    "description": "Blog of a Software Engineer",
+    "description": "Blog of meplis",
     "author": "Hamza Şengül",
     "keywords": [
       "blog",
-      "developer blog",
-      "engineering blog"
+      "hamza şengül blog",
+      "meplis",
+      "meplis blog",
+      "developer blog"
     ]
   },
   "cname": "blog.meplis.dev"
