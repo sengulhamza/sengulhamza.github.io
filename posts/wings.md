@@ -1,0 +1,6 @@
+---
+title: Vazgeçen Kanatlar
+date: 2023-02-15
+permalink: /blog/2023/02/15/vazgecen-kanatlar/
+---
+Kendimi güçsüz, yılmış, yıpranmış, çaresiz,  umutsuz biliyordum, tek gayeme ulaşıncaya kadar. Hani bir klişe vardır, gerçekten istediğin bu mu gerçekleşince mutlu ve tamam olacak mısın? Ben de öyle sanıyordum. Hepsinden kurtulacağımı sanıyordum bugünlere gelince. Çok bencilmişim işte, kendimi bunun için hazırlarken çok geç dokundum kanatlara. Tüm güçsüzlüğümü ve yılmışlığımı bir kenara bıraktıran bu bencil amacıma ilerlerken, gördüğüm dokunduğum kanatlar bu sürede çok ağır yükler taşımış ve yıpranmış. Bencilmişim, her şeyi bir kenara bırakıp bir kanatta ben olup yükü taşımalıydım, bu yıpranmayı bu yükü hangi melek kanadı kaldırabilirmiş. Her yelde bir parçası zedelenmiş gibi, oturup dinlense kanatlarının gölgesinde, ya gölgeler hatırlatır geçmişi ya da esen serin yel. Vazgeçmiş uçmaya artık. Geç kalınmış bir gölge gibiyim. Bencilliğim kanatlarımdan büyükmüş, görememişim bir kanatla yanında olacağımı. İlk defa bir meleği son çareye bu kadar yakın görüyorum, kanatlarını çıkarıp “eseriniz” gibi duvara asmış sanki, bekliyor, bekliyoruz.
